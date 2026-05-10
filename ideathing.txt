@@ -1,0 +1,12 @@
+
+part customizer, zero project updash or x3 updash
+
+choose armorset you want (or selected during menu where you put in seed?)
+
+difficulty b class (lame x3 green missile shooter guys) a class and s class
+
+snd "default" "crisp" "psx"
+
+8 boss random but fortress instead
+
+x3 psx walljump cvar
